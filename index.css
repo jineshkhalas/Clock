@@ -376,7 +376,7 @@ body {
 
 @media only screen and (max-width: 400px) {
     .content{
-        top: 5vh;
+        top: 1vh;
     }
     .clock-back {
         width: 220px;
